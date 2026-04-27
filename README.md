@@ -13,3 +13,6 @@ Make a moodle and post the proces
  
 
 </details>Justificació IP BAN</details>
+-La IP bloquejada ha sobrepassat els límit de seguretat tractant d'instal·lat un virus maliciós i antidemocràtic.
+
+-La IP ja no pot tornar a tractar d'instaurar una societat comunista en el nostre perfecte estat, amb **democràcia gestionada**.
