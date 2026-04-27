@@ -6,8 +6,9 @@ Make a moodle and post the proces
 ·*solució* anar a Administració del lloc > Servidor > Tasques > Tasques Ad hoc > *eliminar el proces que menciona el error*
 
 ---
+<details>
+  <summary>-Capturas </summary>
 
-</summary>  -Capturas 
 
 <img width="849" height="1001" alt="admin config" src="https://github.com/user-attachments/assets/add1d35e-b802-40bb-ac86-9542fb50b485" />
 
@@ -50,7 +51,7 @@ Make a moodle and post the proces
 <img width="1798" height="960" alt="Previous IP Block" src="https://github.com/user-attachments/assets/af866808-1e22-4201-bc5e-f1014c58573b" />
 
 <img width="1798" height="960" alt="Ip block" src="https://github.com/user-attachments/assets/f3ff90ac-d27e-4eec-a481-4956f8ed90d9" />
-<summary> 
+</details> 
  
 
 </details>Justificació IP BAN</details>
