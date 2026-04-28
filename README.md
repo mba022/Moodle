@@ -9,6 +9,7 @@ Make a moodle and post the proces
 <details>
   <summary>-Capturas </summary>
 
+<img width="1854" height="1001" alt="Captura desde 2026-04-28 13-19-56" src="https://github.com/user-attachments/assets/f1386a84-0805-4f56-9128-8749ca1dbaa1" />
 
 <img width="849" height="1001" alt="admin config" src="https://github.com/user-attachments/assets/add1d35e-b802-40bb-ac86-9542fb50b485" />
 
