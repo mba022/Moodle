@@ -5,9 +5,16 @@ Make a moodle and post the proces
 ·bug en la creació de "questionari", no poder executar cert programa per la creació de preguntes per al banc de preguntes.
 ·*solució* anar a Administració del lloc > Servidor > Tasques > Tasques Ad hoc > *eliminar el proces que menciona el error*
 
+·bug al realitzar una copia de seguretat, desabilitar la "copia asincromatica"  Administració del lloc > Cursos > Copias de seguretat > Copia de seguridad/restauración asincrónicos > 
+buscas el parametre i el desactives.
+
 ---
 <details>
   <summary>-Capturas </summary>
+  
+<img width="1854" height="1001" alt="Captura desde 2026-04-28 13-45-09" src="https://github.com/user-attachments/assets/5eb8af31-b9b5-4cba-8691-b8369b520228" />
+
+<img width="1854" height="1001" alt="Captura desde 2026-04-28 13-44-49" src="https://github.com/user-attachments/assets/afe66822-a04b-43d3-8116-63db1cbe13aa" />
 
 <img width="1854" height="1001" alt="Captura desde 2026-04-28 13-19-56" src="https://github.com/user-attachments/assets/f1386a84-0805-4f56-9128-8749ca1dbaa1" />
 
